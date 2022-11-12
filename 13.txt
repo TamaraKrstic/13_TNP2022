@@ -1,0 +1,58 @@
+% !TEX encoding = UTF-8 Unicode
+
+\documentclass[a4paper]{article}
+
+\usepackage{color}
+\usepackage{url}
+\usepackage[T2A]{fontenc} % enable Cyrillic fonts
+\usepackage[utf8]{inputenc} % make weird characters work
+\usepackage{graphicx}
+
+\usepackage[english,serbian]{babel}
+%\usepackage[english,serbianc]{babel} %ukljuciti babel sa ovim opcijama, umesto gornjim, ukoliko se koristi cirilica
+
+\usepackage[unicode]{hyperref}
+\hypersetup{colorlinks,citecolor=green,filecolor=green,linkcolor=blue,urlcolor=blue}
+
+%\newtheorem{primer}{Пример}[section] %ćirilični primer
+\newtheorem{primer}{Primer}[section]
+
+\begin{document}
+
+\title{Internet marketing\\ \small{Seminarski rad u okviru kursa\\Tehničko i naučno pisanje\\ Matematički fakultet}}
+
+\author{Marina Nešković, Anja Petrović \\   \\   \\  \\ marinaneskovic461@gmail.com}
+\date{11.11.2022.}
+\maketitle
+
+\abstract{
+U ovom tekstu je ukratko prikazana osnovna forma seminarskog rada. Obratite pažnju da je pored ove .pdf datoteke, u prilogu i odgovarajuća .tex datoteka, kao i .bib datoteka korišćena za generisanje literature. Na prvoj strani seminarskog rada su naslov, apstrakt i sadržaj, i to sve mora da stane na prvu stranu! Kako bi Vaš seminarski zadovoljio standarde i očekivanja, koristite uputstva i materijale sa predavanja na temu pisanja seminarskih radova. Ovo je samo šablon koji se odnosi na fizički izgled seminarskog rada (šablon koji \emph{morate} da ispoštujete!) kao i par tehničkih pomoćnih uputstava. 
+
+\tableofcontents
+
+\newpage
+
+\section{Uvod}
+\label{sec:uvod}
+
+\\Internet marketing se definiše kao korišćenje digitalnih kanala za promociju proizvoda ili usluge. Cilj ovog pristupa je povezivanje sa kupcima na mreži – mesto gde provode najviše vremena tražeći informacije ili zabavu.
+\\ Digitalni marketing je široka praksa, jednostavno zato što postoji toliko mnogo dostupnih kanala na mreži. Objavljivanje na društvenim mrežama je oblik digitalnog marketinga, kao i email marketing i blogovanje. Zajedno, promotivni sadržaj na ovim različitim platformama čini kohezivnu strategiju internet marketinga. Bez obzira da li se fokusirate na marketing događaja ili kreirate listu pretplatnika e-pošte, digitalni marketing je neverovatno važan aspekt.
+\\ Prezentovanje na internetu predstavlja reklamu koja ima bitne razlike u svim segmentima reklamiranja u odnosu na standardno reklamiranje.
+Internet je stvorio virtualno i globalno tržište oslobodeno granica vremena i prostora. Doprineo je i promeni forme marketinga, od tradicionalnog (masovnog) sa “prosecnim potrošacem” i njemu prilagodenim instrumentima marketinga u marketing miks, u pravcu individualiziranog, prilagodenog (customized), ciljnog (one to one) marketinga. Nova forma marketinga usmerena je na individualiziranog internet potrošaca putem neposredne interakcije. Umesto masovnog marketinga na internetu nastaje marketing mase individua, a oglašavanje se transformiše u izbor informacija.
+\\ Marketing se bavi pitanjima i potrebama na tržištu i pronalaskom načina za zadovoljenje tih potreba. Stalno se razvija, zajedno sa razvojem samog tržišta i za cilj ima postavljanje osnove za strategiju poslovanja. Uspeh u marketingu se najčešće dovodi u vezu sa razumevanjem potreba potrošača. U ovakvom konceptu marketing se može definisati kao proces od projektovanja proizvoda i usluga, do cilja, to jest zadovoljenja potrošača.
+\\Marketing koncept ima četiri osnovna elementa (poznata kao 4P) :
+\\Product - proizvod
+\\Price - cena
+\\Placement - distribucija
+\\Promotion - promocija
+\\ Kombinacija ova četiri elementa se popularno naziva marketing miks.
+\\ Nije dovoljno samo napraviti proizvod ili smisliti uslugu. Morate planirati dalji razvoj, morate imati viziju. Svaki proizvod je priča za sebe i čini ga više stvari: karatkeristike, naziv, dizajn, pakovanje, funkcionalnost i tako dalje.
+\newpage
+\\ Novo područje marketinga sa istom suštinom su pojmovi online marketing, internet marketing, marketing na internetu. Najčešće se definiše kao zadovoljenje potreba i zahteva potrošača za informacijama, proizvodima ili uslugama, uz adekvatnu finansijsku nadoknadu. Pretpostavka uspešne primene online marketinga je znanje o osnovama sistema i procesa marketinga ili često sad već nazvanog tradicionalnog marketinga. To podrazumeva znanja iz područja marketing istraživanja, planiranja i razvoja proizvoda, distribucije i promocije kao aktivnosti marketinga i o instrumentima marketinga.
+\\ Dakle, principi i metodi online marketinga potiču od tradicionalnog marketinga a osnovna razlika rezultira u interaktivnosti. Naime, subjekti na strani potrošnje i ponude realizuju dvosmerno komuniciranje. Prodavac bilo kada i bilo gde može da stigne do potrošaca: na radnom mestu, kod kuce i sl, kao što i potrošac ima daleko veće mogucnosti za kontaktiranje prodavca.
+\\ Distribucija je mesto gde će se vaš proizvod prodavati. Male prodavnice, veliki marketi, sajt, društvene mreže i tako dalje. Koliko vam je jaka distributivna mreža toliko je jak opseg poslovanja. Potrebno je imati razgranat sistem kroz više nezavisnih kanala. Promotion – promocija Promocija predstavlja vrstu komunikacije koju marketinški stručnjak može da upotrebi na tržištu u svrhu promovisanja proizvoda. Ovaj element marketing miksa omogućava da proizvod dođe u svest potencijalnih potrošača te da oni budu upoznati sa postojanjem proizvoda, kao i njegovih glavnih osobina i prednosti. Savremeni marketing traži mnogo više od razvijenog proizvoda i privlačne cene. Potrebna je komunikacija sa trenutnim i budućim - potencijalnim kupcima, kao i saradnicima - posrednicima, dobavljačima ali i javnošću u globalu. A šta je marketing ako nije komunikacija? Svaka savremena kompanija upravlja ozbiljnim sistemom marketing komunikacija. Dobri marketing menadžeri nude relevantne informacije i podstiču kupce da izaberu baš njihov proizvod. Svesni su toga da je njihov zadatak da informišu, podsete i ubede potencijalne klijente da je njihov proizvod najbolji izbor.
+\\ Po ovakvoj podeli ovaj vodič bi se bavio oglašavanjem, ali kako su mogućnosti interneta i samih društvenih mreža svakim danom sve veće, svi elementi promocije, ali i drugih 4P elemenata su na ovaj ili onaj način u nekom trenutku vezani za ono što se u narodu zove digitalni marketing, a nema konkretnu definiciju. Ako bismo morali da probamo da na najpribližniji i najjednostavniji način objasnimo šta je digitalni marketing, onda bi to bila svaka promocija nekog proizvoda ili usluge putem bilo koje platforme na internetu.
+\newpage
+
+
+\end{document}
