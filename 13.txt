@@ -21,7 +21,7 @@
 
 \title{Internet marketing\\ \small{Seminarski rad u okviru kursa\\Tehničko i naučno pisanje\\ Matematički fakultet}}
 
-\author{Marina Nešković, Anja Petrović \\   \\   \\  \\ marinaneskovic461@gmail.com}
+\author{Marina Nešković, Anja Petrović \\ Tamara Krstić  \\   \\  \\ marinaneskovic461@gmail.com}
 \date{11.11.2022.}
 \maketitle
 
@@ -76,5 +76,71 @@ Jedna od ključnih karakteristika potpunog internet marketinga je da su digitaln
 efikasno sa ciljanim kupcima. Ono što dobijate su trenutni rezultati vaših marketinških napora. Rezultati su natprosečne konverzije za prodaju svaki put kada ciljani kupac posećuje vaše odredišne stranice ili veb-sajtove.
 \\U poređenju sa tradicionalnim marketingom u masovnim medijima,internet marketing je mnogo isplativiji. Internet marketing takođe ne zahteva  velika ulaganja kao šta su preduzeća radila u prošlosti sa marketingom u masovnim medijima. Ovakav marketing jeftiniji je u poređenju sa tradicionalnim, a u mnogim slučajevima veb lokacije mogu generisati saobraćaj čak i besplatno.
 \cite{benefiti}
+\\U sledećoj tabeli \ref{tab:tabela1}  se mogu primetiti osnovne razlike izmedju internet i tradicionalnog marketinga. Kroz nju se jasno vide prednosti internet marketinga :
+\newpage
+\begin{table}[h!]
+\begin{center}
+\caption{Razlike}
+\begin{tabular}{|c|c|c|} \hline
+           & tradicionalan marketing& internet marketing\\ \hline
+dopire do& ograničenog broja ljudi & globalno\\   \hline
+pristupačnost &ograničena&široka i raznolika\\ \hline
+komunikacija &jednosmerna&dvosmerna\\\hline
+vreme pristupanja&ograničeno&uvek dostupno i veoma brzo\\ \hline
+ciljanje dobre  publike&teško&lako\\ \hline
+\end{tabular}
+\label{tab:tabela1}
+\end{center}
+\end{table}
+
+
+
+\section{Mane internet marketinga}
+\label{sec:mane}
+Pored mnogih prednosti,internet marketing naravno ima i svoje mane.
+\\Ponekad ljudi bolje prihvataju tradicionalan način marketinga nego moderan(preko interneta).Evo i nekih primera zašto:
+\subsection{Kopiranje}
+\label{subsec:kopiranje}
+Internet marketing je osmišljen tako da je dostupan svim korisnicima. Budući da su sve vaše kampanje vidljive, bilo ko može samo da uzme vašu ideju i pretvara se da je njihova.
+\\U ovom smislu,dolazi do neoriginalsnoti i ponavljanja već vidjenih kampanja. Vaš projekat nikad neće moći da bude poseban i unikatan.
+\subsection{Nered na internetu}
+\label{subsec:Nered}
+Zbog postojanja internet trolova(eng.trolls),spemera(eng.spammers) i ostalih sumnjivih identiteta i prevaranata na digitalnom tržištu, internet je pun nereda i beskorisnih informacija. Ovo otežava uspeh kompanija da privuku potrošače reklamama preko interneta. Iz ovih razloga, neki potrošači su navikli da ignorišu internet ponude, jer nisu sve zagarantovano korisne.
+\subsection{Da li odgovara vašem proizvodu?}
+\label{subsec:Pristajanje}
+Neki proizvodi prosto ne odgovaraju promociji na internetu. Dobar primer bi bili proizvodi za penzionere, s obzirom da većina penzionera ne koristi internet.
+\subsection{Previše konkurencije}
+\label{Konkurencija}
+Kao što je već rečeno u odeljku za kopiranje,internet je svima dostupan, pa samim tim postoji mnogo različitih kampanja koje predstavljaju veliku konkurenciju. Svi se takmiče za najviše pažnje, ali da bi se to izvelo moralo bi da se uloži dosta novca.
+\subsection{Negativni komentari}
+\label{Negativni komentari}
+Negativni komentari i kritike mogu drastično da utiču na uspeh marketinga. Sa razvojem društvenih mreža, sada je dovoljan samo jedan negativan komentar da bi se proširio loš glas o vašem proizvodu.
+\subsection{Tehnologija je sklona kvaru}
+\label{Greška}
+ Internet zavisi od modernih tehnologija, a one su sklone kvaru i greškama u sistemu .
+\\Stvari kao što su linkovi koji ne rade,nefunkcionalni tasteri ili pad sistema, mogu znatno pogoršati vašu kampanju.
+\section{Najvažniji elementi}
+\label{sec:najvažniji elementi}
+Svaki segment online kampanje samo je deo jednog velikog sistema. Iako je na prvi pogled reč o posebnim segmentima, rezultati su vidljivi samo ako su međusobno dobro sinhronizovani. Naravno, nećete uvek koristiti sve komponente, odluku ćete donositi od slučaja do slučaja. Generalno, što je kompleksniji zadatak, to će biti korišćeno više resursa.
+\\\textbf {Search Engine Optimization (SEO)} odnosi se na aktivnosti oko sajta, tako da se on može lako pronaći u internet pretragama. Kada pretražujemo nešto preko interneta, rezultat pretrage će zavisiti od reči koje smo uneli. Zbog toga je jako bitno uneti ključne reči koje što bliže opisuju vaš proizvod. Ovime ćete se bolje pozicionirati na pretragama
+\begin{primer}
+Bolje se rangira ako su ključne reči -duga svečana haljina  , nego samo -haljina.
+\end{primer}
+\\\textbf{Email marketing} je i dalje izuzetno efikasan način da se kontaktira sa klijentima. Ukratko, reč je, pre svega, o promotivnim emailovima kojima je osnovni cilj da se ostvari uspešan kontakt i prenesu marketinške poruke.
+\\Na ovaj način se obraćamo potencijalnim kupcima, ali i starim korisnicima usluga koje želimo da upoznamo sa novim poslovnim prilikama.
+\\Tipične vrste mailova su:
+\begin{itemize}
+    \item Poziv na pretplatu na newsletter;
+    \item Promocije;
+    \item Briga o kupcima (popust za rođendan, specijalne promocije u okviru loyalty programa…);
+    \item Email zahvalnica nakon kupovine;
+\end{itemize}
+\\Zbog zloupotrebe ovog vida promocije , email klijenti  Gmail i Hotmail su razvili filere koji  blokiraju beskorisne ili prevarantske emailove (spam).
+\\\textbf{Pay Per Click (PPC)} se odnosi na digitalno oglašavanje koje se plaća po kliku, tj. akciji korisnika. To može da bude kliktanje na sponzorisani post, link ili baner(eng.banner) koji ste platili.
+\\To praktično znači da možete da kupite posete vašem sajtu ili lajkove na društvenim mrežama kao što su Facebook, Instagram ili Twitter. Za ove aktivnosti najčešće se koriste Google Ads ili Facebook Ads alati.
+Prednost PPC kampanja je to što mogu da donesu trenutne rezultate usled preciznog ciljanja publike.Ovime možete da izaberete ko će videti vaš oglas na osnovu pola, starosti, lokacije, zanimanja, jezika...
+\\Ovaj vid kampanje je dosta efikasan ,al može da bude i jako skup.
+\\\textbf{Social media marketing} koristi društvene mreže kako bi promovisao brend i komunicirao sa potrošačima. Promotivne aktivnosti na društvenim mrežama fokusiraju se na najpopularnije platforme kao što su Facebook, Instagram, Linkedin, Twitter, Snapchat, Pinterest i druge. Svaka društvena mreža ima drugačiju publiku, pa se i promotivne aktivnosti razlikuju.
+\\Samim tim, brend se najviše približava korisnicima, predstavljajući razne ideje kroz razne oblike aktivacije. U tu svrhu se često koriste i poznate ličnosti koje utiču na stavove svojih fanova. Oni na ovaj način utiču na javno mnjenje, pa se zbog toga ove poznate osobe zovu i – influenseri.
 
 \end{document}
