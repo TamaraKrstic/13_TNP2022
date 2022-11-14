@@ -121,7 +121,7 @@ Negativni komentari i kritike mogu drastično da utiču na uspeh marketinga. Sa 
  Internet zavisi od modernih tehnologija, a one su sklone kvaru i greškama u sistemu .
 \\Stvari kao što su linkovi koji ne rade,nefunkcionalni tasteri ili pad sistema, mogu znatno pogoršati vašu kampanju.
 \begin{center}
-    \includegraphics[width=5cm]{slika.mane.marketinga.jpg}\\
+    \includegraphics[width=5cm]{13/slika.mane.marketinga.jpg}\\
     \large{Slika 2 : Mane marketinga}
 \end{center}
 \label{fig:mane}
