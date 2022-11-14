@@ -79,7 +79,7 @@ efikasno sa ciljanim kupcima. Ono što dobijate su trenutni rezultati vaših mar
 \cite{benefiti}
 
 \begin{center}
-    \includegraphics[width=5cm]{slika.benefiti.marketinga.jpg}\\
+    \includegraphics[width=5cm]{13/slika.benefiti.marketinga.jpg}\\
     \large{Slika 2: Benefiti internet marketinga}
 \end{center}
 \label{fig:benefiti}
