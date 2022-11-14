@@ -80,7 +80,7 @@ efikasno sa ciljanim kupcima. Ono što dobijate su trenutni rezultati vaših mar
 
 \begin{center}
     \includegraphics[width=5cm]{13/slika.benefiti.marketinga.jpg}\\
-    \large{Slika 2: Benefiti internet marketinga}
+    \large{Slika 1: Benefiti internet marketinga}
 \end{center}
 \label{fig:benefiti}
 
@@ -120,6 +120,11 @@ Negativni komentari i kritike mogu drastično da utiču na uspeh marketinga. Sa 
 \\\textbf{Tehnologija je sklona kvaru}:
  Internet zavisi od modernih tehnologija, a one su sklone kvaru i greškama u sistemu .
 \\Stvari kao što su linkovi koji ne rade,nefunkcionalni tasteri ili pad sistema, mogu znatno pogoršati vašu kampanju.
+\begin{center}
+    \includegraphics[width=5cm]{slika.mane.marketinga.jpg}\\
+    \large{Slika 2 : Mane marketinga}
+\end{center}
+\label{fig:mane}
 \section{Najvažniji elementi}
 \label{sec:najvažniji elementi}
 Svaki segment online kampanje samo je deo jednog velikog sistema. Iako je na prvi pogled reč o posebnim segmentima, rezultati su vidljivi samo ako su međusobno dobro sinhronizovani. Naravno, nećete uvek koristiti sve komponente, odluku ćete donositi od slučaja do slučaja. Generalno, što je kompleksniji zadatak, to će biti korišćeno više resursa.
@@ -173,7 +178,7 @@ Strategija \textbf{Search Engine Marketinga(SAM)} jeste korišćenje SEO I PPC m
 
 \begin{center}
     \includegraphics[width=5cm]{13/instagramh.jpg}\\
-    \large{Slika 1:hestagovi na instagram postu}
+    \large{Slika 3:hestagovi na instagram postu}
 \end{center}
 \subsection{Content Marketing  }
 \label{subsec:Content}
