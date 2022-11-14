@@ -209,7 +209,7 @@ Iako se internet marketing menja I konstantno proširuje jedan je od veoma važn
 
 \bibitem{benefiti i mane} Yurovskiy, Vladislav \emph{Pros and cons of internet marketing} 2014.
 \bibitem{elementi} IT-akademija.com,https://www.it-akademija.com/digitalni-marketing-kompletan-vodic,12.11.2022.
-
+\bibitem{tradicionalni i internet marketing} Holistic digital solutions,https://holistic-digital.com/internet-marketing/,14.11.2022.
 
 
 
