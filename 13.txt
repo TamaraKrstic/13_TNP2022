@@ -103,37 +103,34 @@ ciljanje dobre  publike&teško&lako\\ \hline
 
 
 
-\section{Mane internet marketinga}
+section{Mane internet marketinga}
 \label{sec:mane}
 Pored mnogih prednosti,internet marketing naravno ima i svoje mane.
 \\Ponekad ljudi bolje prihvataju tradicionalan način marketinga nego moderan(preko interneta).Evo i nekih primera zašto:
-\subsection{Kopiranje}
-\label{subsec:kopiranje}
-Internet marketing je osmišljen tako da je dostupan svim korisnicima. Budući da su sve vaše kampanje vidljive, bilo ko može samo da uzme vašu ideju i pretvara se da je njihova.
+\\\textbf{Kopiranje}:Internet marketing je osmišljen tako da je dostupan svim korisnicima. Budući da su sve vaše kampanje vidljive, bilo ko može samo da uzme vašu ideju i pretvara se da je njihova.
 \\U ovom smislu,dolazi do neoriginalsnoti i ponavljanja već vidjenih kampanja. Vaš projekat nikad neće moći da bude poseban i unikatan.
-\subsection{Nered na internetu}
-\label{subsec:Nered}
-Zbog postojanja internet trolova(eng.trolls),spemera(eng.spammers) i ostalih sumnjivih identiteta i prevaranata na digitalnom tržištu, internet je pun nereda i beskorisnih informacija. Ovo otežava uspeh kompanija da privuku potrošače reklamama preko interneta. Iz ovih razloga, neki potrošači su navikli da ignorišu internet ponude, jer nisu sve zagarantovano korisne.
-\subsection{Da li odgovara vašem proizvodu?}
-\label{subsec:Pristajanje}
+\\\textbf{Nered na internetu}:
+Zbog postojanja internet trolova(eng.trolls), spemera(eng.spammers) i ostalih sumnjivih identiteta i prevaranata na digitalnom tržištu, internet je pun nereda i beskorisnih informacija. Ovo otežava uspeh kompanija da privuku potrošače reklamama preko interneta. Iz ovih razloga, neki potrošači su navikli da ignorišu internet ponude, jer nisu sve zagarantovano korisne.
+\\\textbf{Da li odgovara vašem proizvodu?}:
 Neki proizvodi prosto ne odgovaraju promociji na internetu. Dobar primer bi bili proizvodi za penzionere, s obzirom da većina penzionera ne koristi internet.
-\subsection{Previše konkurencije}
-\label{Konkurencija}
+\\\textbf{Konkurencija}:
 Kao što je već rečeno u odeljku za kopiranje,internet je svima dostupan, pa samim tim postoji mnogo različitih kampanja koje predstavljaju veliku konkurenciju. Svi se takmiče za najviše pažnje, ali da bi se to izvelo moralo bi da se uloži dosta novca.
-\subsection{Negativni komentari}
-\label{Negativni komentari}
+\\\textbf{Negativni komentari}:
 Negativni komentari i kritike mogu drastično da utiču na uspeh marketinga. Sa razvojem društvenih mreža, sada je dovoljan samo jedan negativan komentar da bi se proširio loš glas o vašem proizvodu.
-\subsection{Tehnologija je sklona kvaru}
-\label{Greška}
+\\\textbf{Tehnologija je sklona kvaru}:
  Internet zavisi od modernih tehnologija, a one su sklone kvaru i greškama u sistemu .
 \\Stvari kao što su linkovi koji ne rade,nefunkcionalni tasteri ili pad sistema, mogu znatno pogoršati vašu kampanju.
 \section{Najvažniji elementi}
 \label{sec:najvažniji elementi}
 Svaki segment online kampanje samo je deo jednog velikog sistema. Iako je na prvi pogled reč o posebnim segmentima, rezultati su vidljivi samo ako su međusobno dobro sinhronizovani. Naravno, nećete uvek koristiti sve komponente, odluku ćete donositi od slučaja do slučaja. Generalno, što je kompleksniji zadatak, to će biti korišćeno više resursa.
+\subsection{Search Engine Optimization(SEO)}
+\label{subsec:SEO}
 \\\textbf {Search Engine Optimization (SEO)} odnosi se na aktivnosti oko sajta, tako da se on može lako pronaći u internet pretragama. Kada pretražujemo nešto preko interneta, rezultat pretrage će zavisiti od reči koje smo uneli. Zbog toga je jako bitno uneti ključne reči koje što bliže opisuju vaš proizvod. Ovime ćete se bolje pozicionirati na pretragama
 \begin{primer}
 Bolje se rangira ako su ključne reči -duga svečana haljina  , nego samo -haljina.
 \end{primer}
+\subsection{Email marketing}
+\label{subsec:Email}
 \\\textbf{Email marketing} je i dalje izuzetno efikasan način da se kontaktira sa klijentima. Ukratko, reč je, pre svega, o promotivnim emailovima kojima je osnovni cilj da se ostvari uspešan kontakt i prenesu marketinške poruke.
 \\Na ovaj način se obraćamo potencijalnim kupcima, ali i starim korisnicima usluga koje želimo da upoznamo sa novim poslovnim prilikama.
 \\Tipične vrste mailova su:
@@ -144,18 +141,21 @@ Bolje se rangira ako su ključne reči -duga svečana haljina  , nego samo -halj
     \item Email zahvalnica nakon kupovine;
 \end{itemize}
 \\Zbog zloupotrebe ovog vida promocije , email klijenti  Gmail i Hotmail su razvili filere koji  blokiraju beskorisne ili prevarantske emailove (spam).
+\subsection{Pay per Click (PPC)}
+\label{subsec:PPC}
 \\\textbf{Pay Per Click (PPC)} se odnosi na digitalno oglašavanje koje se plaća po kliku, tj. akciji korisnika. To može da bude kliktanje na sponzorisani post, link ili baner(eng.banner) koji ste platili.
 \\To praktično znači da možete da kupite posete vašem sajtu ili lajkove na društvenim mrežama kao što su Facebook, Instagram ili Twitter. Za ove aktivnosti najčešće se koriste Google Ads ili Facebook Ads alati.
 Prednost PPC kampanja je to što mogu da donesu trenutne rezultate usled preciznog ciljanja publike.Ovime možete da izaberete ko će videti vaš oglas na osnovu pola, starosti, lokacije, zanimanja, jezika...
 \\Ovaj vid kampanje je dosta efikasan ,al može da bude i jako skup.
+\subsection{Social Media Marketing}
+\label{subsec:Social Media}
 \\\textbf{Social media marketing} koristi društvene mreže kako bi promovisao brend i komunicirao sa potrošačima. Promotivne aktivnosti na društvenim mrežama fokusiraju se na najpopularnije platforme kao što su Facebook, Instagram, Linkedin, Twitter, Snapchat, Pinterest i druge. Svaka društvena mreža ima drugačiju publiku, pa se i promotivne aktivnosti razlikuju.
 \\Samim tim, brend se najviše približava korisnicima, predstavljajući razne ideje kroz razne oblike aktivacije. U tu svrhu se često koriste i poznate ličnosti koje utiču na stavove svojih fanova. Oni na ovaj način utiču na javno mnjenje, pa se zbog toga ove poznate osobe zovu i – influenseri.
-
-\section{Affiliate marketing}
-\label{sec:affiliate marketing}
+\subsection{Affiliate marketing}
+\label{subsec:affiliate marketing}
 Zamislite da posećujete stranicu na kojoj se nalazi lista najboljih filmova 2022 godine, isečci najboljih scena u tim filmovima njihova kritika i njihovi glumci. Vi ste došli na tu stranicu da bi ste videli kritiku nekog od tih filmova ali sada vam se bas gleda taj film! Srećom  na tom sajtu se nalazi link preko koga mozete da kupite članstvo platforme na kojoj možete da ga pogledate. 
 
-Taj sajt je upravo uspešno reklamirao tu platformu za gledanje filmova uz pomoć linka koji void na tu platformu. Afiliate marketing je tip marketinga koji koristi popularnost nekog sajta da reklamira neki proizvod ili uslugu koja je blisko povezana sa sa temom tog sajta. 
+Taj sajt je upravo uspešno reklamirao tu platformu za gledanje filmova uz pomoć linka koji void na tu platformu. \textbf{Afiliate marketing} je tip marketinga koji koristi popularnost nekog sajta da reklamira neki proizvod ili uslugu koja je blisko povezana sa sa temom tog sajta. 
 Ovakav način marketinga trazi saradnju vlasnika sajta I prodavca uz pomoć koje vlasnik sajta za za svaku prodaju ili definisanu radnju posetilaca sajta dobiti neku proviziju a prodavac dobija željenu reklamu.
 
 
@@ -164,9 +164,9 @@ Ovakav način marketinga trazi saradnju vlasnika sajta I prodavca uz pomoć koje
 
 
 
-\section{Search Engine Marketing(SAM)  }
-\label{sec:naslov1}
-Strategija Search Engine Marketinga(SAM) jeste korišćenje SEO I PPC metoda kako bi se osihgurala što bolja pozicija tokom pretraživanja. To se nekada izvodi korišćenjem ključnih reči da bi se sto bolje objasnio dati proizvod ili ulaganjem u pay per click (eng plaćanje po kliku). Osiguravajući bolje mesto tokom pretrage povećava se broj kupaca koji će videti proizvod, a samim tim I kupiti ga.
+\subsection{Search Engine Marketing(SAM)  }
+\label{subsec:SAM}
+Strategija \textbf{Search Engine Marketinga(SAM)} jeste korišćenje SEO I PPC metoda kako bi se osihgurala što bolja pozicija tokom pretraživanja. To se nekada izvodi korišćenjem ključnih reči da bi se sto bolje objasnio dati proizvod ili ulaganjem u pay per click (eng plaćanje po kliku). Osiguravajući bolje mesto tokom pretrage povećava se broj kupaca koji će videti proizvod, a samim tim I kupiti ga.
 
  U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici 1 prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
 
@@ -175,7 +175,8 @@ Strategija Search Engine Marketinga(SAM) jeste korišćenje SEO I PPC metoda kak
     \includegraphics[width=5cm]{13/instagramh.jpg}\\
     \large{Slika 1:hestagovi na instagram postu}
 \end{center}
-
+\subsection{Content Marketing  }
+\label{subsec:Content}
 Content marketing je oblik marketinga koji koji se krije iza sadrzaja neke stranice. Ovaj oblik reklamacije stavlja određeni proizvod unutar sardržaja kao nesto pomoću čega se dati sadržaj odvija I reklamira ga kao nezaobilazan deo radnje tog sadržaja. 
 
 Za ovaj način marketinga koriste se platforme koje za cilj imaju proizvodnju zanimljivog sadrzaja kao što su društvene mreze I blogovi. Ovakvi sadržaji ce privlačiti potrošače kojima su ovakve teme bliske I zanimljive, pa će tako biti I zainteresovani za reklamirani proizvod. 
