@@ -26,8 +26,7 @@
 \maketitle
 
 \abstract{
-U ovom tekstu je ukratko prikazana osnovna forma seminarskog rada. Obratite pažnju da je pored ove .pdf datoteke, u prilogu i odgovarajuća .tex datoteka, kao i .bib datoteka korišćena za generisanje literature. Na prvoj strani seminarskog rada su naslov, apstrakt i sadržaj, i to sve mora da stane na prvu stranu! Kako bi Vaš seminarski zadovoljio standarde i očekivanja, koristite uputstva i materijale sa predavanja na temu pisanja seminarskih radova. Ovo je samo šablon koji se odnosi na fizički izgled seminarskog rada (šablon koji \emph{morate} da ispoštujete!) kao i par tehničkih pomoćnih uputstava. 
-
+U ovom tekstu moćićete detaljno da se informišete o internet marketingu. Pročitaćete o istoriji I počecima ovakvog načina reklamiranja, kako se uz pomoć pristupa internetu transformisalo tržište, kao I novonastalim metodama za internet reklamaciju. Ovaj rad pružiće vam informacije o raznim benefitima internet marketinga kao I  odgovor na pitanje zašto je on zapravo koristan.
 \tableofcontents
 
 \newpage
@@ -142,5 +141,44 @@ Prednost PPC kampanja je to što mogu da donesu trenutne rezultate usled precizn
 \\Ovaj vid kampanje je dosta efikasan ,al može da bude i jako skup.
 \\\textbf{Social media marketing} koristi društvene mreže kako bi promovisao brend i komunicirao sa potrošačima. Promotivne aktivnosti na društvenim mrežama fokusiraju se na najpopularnije platforme kao što su Facebook, Instagram, Linkedin, Twitter, Snapchat, Pinterest i druge. Svaka društvena mreža ima drugačiju publiku, pa se i promotivne aktivnosti razlikuju.
 \\Samim tim, brend se najviše približava korisnicima, predstavljajući razne ideje kroz razne oblike aktivacije. U tu svrhu se često koriste i poznate ličnosti koje utiču na stavove svojih fanova. Oni na ovaj način utiču na javno mnjenje, pa se zbog toga ove poznate osobe zovu i – influenseri.
+
+\section{Affiliate marketing}
+\label{sec:affiliate marketing}
+Zamislite da posećujete stranicu na kojoj se nalazi lista najboljih filmova 2022 godine, isečci najboljih scena u tim filmovima njihova kritika i njihovi glumci. Vi ste došli na tu stranicu da bi ste videli kritiku nekog od tih filmova ali sada vam se bas gleda taj film! Srećom  na tom sajtu se nalazi link preko koga mozete da kupite članstvo platforme na kojoj možete da ga pogledate. 
+
+Taj sajt je upravo uspešno reklamirao tu platformu za gledanje filmova uz pomoć linka koji void na tu platformu. Afiliate marketing je tip marketinga koji koristi popularnost nekog sajta da reklamira neki proizvod ili uslugu koja je blisko povezana sa sa temom tog sajta. 
+Ovakav način marketinga trazi saradnju vlasnika sajta I prodavca uz pomoć koje vlasnik sajta za za svaku prodaju ili definisanu radnju posetilaca sajta dobiti neku proviziju a prodavac dobija željenu reklamu.
+
+
+
+
+
+
+
+\section{Search Engine Marketing(SAM)  }
+\label{sec:naslov1}
+Strategija Search Engine Marketinga(SAM) jeste korišćenje SEO I PPC metoda kako bi se osihgurala što bolja pozicija tokom pretraživanja. To se nekada izvodi korišćenjem ključnih reči da bi se sto bolje objasnio dati proizvod ili ulaganjem u pay per click (eng plaćanje po kliku). Osiguravajući bolje mesto tokom pretrage povećava se broj kupaca koji će videti proizvod, a samim tim I kupiti ga.
+
+ U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici ispod prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
+
+\includegraphics[width=5cm]{13/instagramh.jpg}
+
+\section{Content marketing}
+\label{sec:naslov2}
+
+Content marketing je oblik marketinga koji koji se krije iza sadrzaja neke stranice. Ovaj oblik reklamacije stavlja određeni proizvod unutar sardržaja kao nesto pomoću čega se dati sadržaj odvija I reklamira ga kao nezaobilazan deo radnje tog sadržaja. 
+
+Za ovaj način marketinga koriste se platforme koje za cilj imaju proizvodnju zanimljivog sadrzaja kao što su društvene mreze I blogovi. Ovakvi sadržaji ce privlačiti potrošače kojima su ovakve teme bliske I zanimljive, pa će tako biti I zainteresovani za reklamirani proizvod. 
+
+Na  primer zamislite da prodajete pribor za slikanje. Umesto da samo postavite kako prodajete pribor, možete napraviti blog na kome će te objašnjavati tehnike slikanja I postavljati slike koje su baš rađene priborom koji vi prodajete!
+
+\section{Zaključak}
+\label{sec:zakljucak}
+Iako na starije generacije više utiču druge vrste reklamiranja kao što su reklame na bilbordima ili preko TV-a, budućnost marketingase svodi na reklamiranje preko društvenih mreža I veb stranica na internetu postaje sve uticajnije dok ostali oblici reklamiranja postaju manje rasprostranjeni. Danas, reklamiranje nekog proizvoda mnogo uspešnije se može obaviti preko interneta jer nekada ograničeno tržište se proširuje na ceo svet I tako stiče velika prednost u odnosu na ostale načine reklamacije I zato predstavlja veoma dobar način reklamiranja danas.
+
+Iako razne stranice na internetu dobijaju značajan profit od raznih oblika reklama, one moraju da budu umerene u količini reklama jer prevelikom količinom reklama mogu da dosade korisniku sajta I da se tako smanji njegova posećenost a tako I korist tih reklama. Dobri oblici internet marketinga imaju za svoj zadatak ka suptilno  upute korisnika ka svojim proizvodima. Mnoge firme različitih zanimanja vide korist I značaj internet marketinga I ulažu dosta vremena I novca u njega kako bi proširile svoj posao I povećale broj potrošača. 
+
+Iako se internet marketing menja I konstantno proširuje jedan je od veoma važnih grana marketinga I konstantno doprinosi uspehu velikog broja firmi I biznisa svojom dostupnošću I rasprostranjenošću I kao takav je jedan od najbitnijih oblika marketinga danas.
+
 
 \end{document}
