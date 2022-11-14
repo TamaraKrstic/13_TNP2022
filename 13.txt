@@ -159,12 +159,13 @@ Ovakav način marketinga trazi saradnju vlasnika sajta I prodavca uz pomoć koje
 \label{sec:naslov1}
 Strategija Search Engine Marketinga(SAM) jeste korišćenje SEO I PPC metoda kako bi se osihgurala što bolja pozicija tokom pretraživanja. To se nekada izvodi korišćenjem ključnih reči da bi se sto bolje objasnio dati proizvod ili ulaganjem u pay per click (eng plaćanje po kliku). Osiguravajući bolje mesto tokom pretrage povećava se broj kupaca koji će videti proizvod, a samim tim I kupiti ga.
 
- U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici ispod prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
+ U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici 1 prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
 
-\includegraphics[width=5cm]{13/instagramh.jpg}
 
-\section{Content marketing}
-\label{sec:naslov2}
+\begin{center}
+    \includegraphics[width=5cm]{13/instagramh.jpg}\\
+    \large{Slika 1:hestagovi na instagram postu}
+\end{center}
 
 Content marketing je oblik marketinga koji koji se krije iza sadrzaja neke stranice. Ovaj oblik reklamacije stavlja određeni proizvod unutar sardržaja kao nesto pomoću čega se dati sadržaj odvija I reklamira ga kao nezaobilazan deo radnje tog sadržaja. 
 
