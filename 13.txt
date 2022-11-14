@@ -73,8 +73,15 @@ Osnovne prednosti internet marketinga su nepostojanje geografskih barijera, cena
 Jedna od ključnih karakteristika potpunog internet marketinga je da su digitalni marketinški alati su dizajnirani da ciljaju određene grupe kupaca ili publike. Za razliku od tradicionalnih masovnih medija marketing gde se reklame emituju svima. Marketing privlači ciljane kupce koji posebno traže brendove, proizvode ili usluge na koje je fokusirana određena digitalna marketinška kampanja. Takođe, kupci mogu pomoću određenih filtera da svedu svoju pretragu na tačno ono što traže, dok ukoliko nemaju tačno određen predmet internet nudi preporučene pretrage koje su uglavnom personalizovane.
 \\Marketinški alati u realnom vremenu mogu doneti preduzećima više koristi od drugih alata. Internet marketing karakterišu interakcije u realnom vremenu koje mogu mnogo više da povežu vaše poslovanje
 efikasno sa ciljanim kupcima. Ono što dobijate su trenutni rezultati vaših marketinških napora. Rezultati su natprosečne konverzije za prodaju svaki put kada ciljani kupac posećuje vaše odredišne stranice ili veb-sajtove.
-\\U poređenju sa tradicionalnim marketingom u masovnim medijima,internet marketing je mnogo isplativiji. Internet marketing takođe ne zahteva  velika ulaganja kao šta su preduzeća radila u prošlosti sa marketingom u masovnim medijima. Ovakav marketing jeftiniji je u poređenju sa tradicionalnim, a u mnogim slučajevima veb lokacije mogu generisati saobraćaj čak i besplatno.
+\\U poređenju sa tradicionalnim marketingom u masovnim medijima,internet marketing je mnogo isplativiji. Internet marketing takođe ne zahteva  velika ulaganja kao šta su preduzeća radila u prošlosti sa marketingom u masovnim medijima. Ovakav marketing jeftiniji je u poređenju sa tradicionalnim, a u mnogim slučajevima veb lokacije mogu generisati saobraćaj čak i besplatno. Na slici \ref{fig:benefiti} možemo da vidimo rezultate istraživanja rađenog na ovu temu.
 \cite{benefiti}
+
+\begin{center}
+    \includegraphics[width=5cm]{slika.benefiti.marketinga.jpg}\\
+    \large{Slika 2: Benefiti internet marketinga}
+\end{center}
+\label{fig:benefiti}
+
 \\U sledećoj tabeli \ref{tab:tabela1}  se mogu primetiti osnovne razlike izmedju internet i tradicionalnog marketinga. Kroz nju se jasno vide prednosti internet marketinga :
 \newpage
 \begin{table}[h!]
