@@ -195,6 +195,29 @@ Iako na starije generacije više utiču druge vrste reklamiranja kao što su rek
 Iako razne stranice na internetu dobijaju značajan profit od raznih oblika reklama, one moraju da budu umerene u količini reklama jer prevelikom količinom reklama mogu da dosade korisniku sajta I da se tako smanji njegova posećenost a tako I korist tih reklama. Dobri oblici internet marketinga imaju za svoj zadatak ka suptilno  upute korisnika ka svojim proizvodima. Mnoge firme različitih zanimanja vide korist I značaj internet marketinga I ulažu dosta vremena I novca u njega kako bi proširile svoj posao I povećale broj potrošača. 
 
 Iako se internet marketing menja I konstantno proširuje jedan je od veoma važnih grana marketinga I konstantno doprinosi uspehu velikog broja firmi I biznisa svojom dostupnošću I rasprostranjenošću I kao takav je jedan od najbitnijih oblika marketinga danas.
+\addcontentsline{toc}{section}{Literatura}
+\appendix
+
+\iffalse
+\bibliography{seminarski}
+\bibliographystyle{plain}
+\fi
+
+\begin{thebibliography}{9}
+
+\bibitem{istorija} Alex Trengove. \emph{Internet marketing}. 2021.
+
+\bibitem{benefiti i mane} Yurovskiy, Vladislav \emph{Pros and cons of internet marketing} 2014.
+\bibitem{elementi} IT-akademija.com,https://www.it-akademija.com/digitalni-marketing-kompletan-vodic,12.11.2022.
+
+
+
+
+\end{thebibliography}
+
+
+\appendix
+
 
 
 \end{document}
