@@ -51,6 +51,7 @@ Internet je stvorio virtualno i globalno tržište oslobodeno granica vremena i 
 \\ Dakle, principi i metodi online marketinga potiču od tradicionalnog marketinga a osnovna razlika rezultira u interaktivnosti. Naime, subjekti na strani potrošnje i ponude realizuju dvosmerno komuniciranje. Prodavac bilo kada i bilo gde može da stigne do potrošaca: na radnom mestu, kod kuce i sl, kao što i potrošac ima daleko veće mogucnosti za kontaktiranje prodavca.
 \\ Distribucija je mesto gde će se vaš proizvod prodavati. Male prodavnice, veliki marketi, sajt, društvene mreže i tako dalje. Koliko vam je jaka distributivna mreža toliko je jak opseg poslovanja. Potrebno je imati razgranat sistem kroz više nezavisnih kanala. Promotion – promocija Promocija predstavlja vrstu komunikacije koju marketinški stručnjak može da upotrebi na tržištu u svrhu promovisanja proizvoda. Ovaj element marketing miksa omogućava da proizvod dođe u svest potencijalnih potrošača te da oni budu upoznati sa postojanjem proizvoda, kao i njegovih glavnih osobina i prednosti. Savremeni marketing traži mnogo više od razvijenog proizvoda i privlačne cene. Potrebna je komunikacija sa trenutnim i budućim - potencijalnim kupcima, kao i saradnicima - posrednicima, dobavljačima ali i javnošću u globalu. A šta je marketing ako nije komunikacija? Svaka savremena kompanija upravlja ozbiljnim sistemom marketing komunikacija. Dobri marketing menadžeri nude relevantne informacije i podstiču kupce da izaberu baš njihov proizvod. Svesni su toga da je njihov zadatak da informišu, podsete i ubede potencijalne klijente da je njihov proizvod najbolji izbor.
 \\ Po ovakvoj podeli ovaj vodič bi se bavio oglašavanjem, ali kako su mogućnosti interneta i samih društvenih mreža svakim danom sve veće, svi elementi promocije, ali i drugih 4P elemenata su na ovaj ili onaj način u nekom trenutku vezani za ono što se u narodu zove digitalni marketing, a nema konkretnu definiciju. Ako bismo morali da probamo da na najpribližniji i najjednostavniji način objasnimo šta je digitalni marketing, onda bi to bila svaka promocija nekog proizvoda ili usluge putem bilo koje platforme na internetu.
+\cite{uvod}
 \newpage
 
 \section{Istorijski osvrt}
@@ -211,7 +212,7 @@ Iako se internet marketing menja I konstantno proširuje jedan je od veoma važn
 \fi
 
 \begin{thebibliography}{9}
-
+\bibitem{uvod} mailchimp.com,https://mailchimp.com/marketing-glossary/digital-marketing/#What_is_digital_marketing%3F, 12.11.2022. 
 \bibitem{istorija} Alex Trengove. \emph{Internet marketing}. 2021.
 
 \bibitem{benefiti i mane} Yurovskiy, Vladislav \emph{Pros and cons of internet marketing} 2014.
