@@ -76,7 +76,7 @@ Jedna od ključnih karakteristika potpunog internet marketinga je da su digitaln
 \\Marketinški alati u realnom vremenu mogu doneti preduzećima više koristi od drugih alata. Internet marketing karakterišu interakcije u realnom vremenu koje mogu mnogo više da povežu vaše poslovanje
 efikasno sa ciljanim kupcima. Ono što dobijate su trenutni rezultati vaših marketinških napora. Rezultati su natprosečne konverzije za prodaju svaki put kada ciljani kupac posećuje vaše odredišne stranice ili veb-sajtove.
 \\U poređenju sa tradicionalnim marketingom u masovnim medijima,internet marketing je mnogo isplativiji. Internet marketing takođe ne zahteva  velika ulaganja kao šta su preduzeća radila u prošlosti sa marketingom u masovnim medijima. Ovakav marketing jeftiniji je u poređenju sa tradicionalnim, a u mnogim slučajevima veb lokacije mogu generisati saobraćaj čak i besplatno. Na slici \ref{fig:benefiti} možemo da vidimo rezultate istraživanja rađenog na ovu temu.
-\cite{benefiti}
+\cite{benefiti i mane}
 
 \begin{center}
     \includegraphics[width=5cm]{13/slika.benefiti.marketinga.jpg}\\
@@ -103,7 +103,7 @@ ciljanje dobre  publike&teško&lako\\ \hline
 
 
 
-section{Mane internet marketinga}
+\section{Mane internet marketinga}
 \label{sec:mane}
 Pored mnogih prednosti,internet marketing naravno ima i svoje mane.
 \\Ponekad ljudi bolje prihvataju tradicionalan način marketinga nego moderan(preko interneta).Evo i nekih primera zašto:
@@ -120,8 +120,10 @@ Negativni komentari i kritike mogu drastično da utiču na uspeh marketinga. Sa 
 \\\textbf{Tehnologija je sklona kvaru}:
  Internet zavisi od modernih tehnologija, a one su sklone kvaru i greškama u sistemu .
 \\Stvari kao što su linkovi koji ne rade,nefunkcionalni tasteri ili pad sistema, mogu znatno pogoršati vašu kampanju.
+\cite{benefiti i mane}
+\\Na slici \ref{fig:mane} može se bolje uočiti uticaj ovih problema.
 \begin{center}
-    \includegraphics[width=5cm]{13/slika.mane.marketinga.jpg}\\
+    \includegraphics[width=4cm]{13/slika.mane.marketinga.jpg}\\
     \large{Slika 2 : Mane marketinga}
 \end{center}
 \label{fig:mane}
@@ -173,13 +175,16 @@ Ovakav način marketinga trazi saradnju vlasnika sajta I prodavca uz pomoć koje
 \label{subsec:SAM}
 Strategija \textbf{Search Engine Marketinga(SAM)} jeste korišćenje SEO I PPC metoda kako bi se osihgurala što bolja pozicija tokom pretraživanja. To se nekada izvodi korišćenjem ključnih reči da bi se sto bolje objasnio dati proizvod ili ulaganjem u pay per click (eng plaćanje po kliku). Osiguravajući bolje mesto tokom pretrage povećava se broj kupaca koji će videti proizvod, a samim tim I kupiti ga.
 
- U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici 1 prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
+ U zavisnosti od platforme preko koje se sprovodi reklamacija pretraživač ce raditi drugačije i to se uvek mora uzeti u obzir radi maksimalne efikasnosti. Da li ce to biti stavljanje dovoljnog broja heštegova sa ključnim rečima na društvenim mrežama (na slici \ref{fig:instagram}
+ prikazan je primer hestagova na instagramu) na određen sadržaj ili tačni I jasni nazivi zavisi na sta se pretraživač te platforme najviše fokusira.
 
 
 \begin{center}
     \includegraphics[width=5cm]{13/instagramh.jpg}\\
     \large{Slika 3:hestagovi na instagram postu}
 \end{center}
+\label{fig:instagram}
+
 \subsection{Content Marketing  }
 \label{subsec:Content}
 Content marketing je oblik marketinga koji koji se krije iza sadrzaja neke stranice. Ovaj oblik reklamacije stavlja određeni proizvod unutar sardržaja kao nesto pomoću čega se dati sadržaj odvija I reklamira ga kao nezaobilazan deo radnje tog sadržaja. 
@@ -187,6 +192,8 @@ Content marketing je oblik marketinga koji koji se krije iza sadrzaja neke stran
 Za ovaj način marketinga koriste se platforme koje za cilj imaju proizvodnju zanimljivog sadrzaja kao što su društvene mreze I blogovi. Ovakvi sadržaji ce privlačiti potrošače kojima su ovakve teme bliske I zanimljive, pa će tako biti I zainteresovani za reklamirani proizvod. 
 
 Na  primer zamislite da prodajete pribor za slikanje. Umesto da samo postavite kako prodajete pribor, možete napraviti blog na kome će te objašnjavati tehnike slikanja I postavljati slike koje su baš rađene priborom koji vi prodajete!
+\cite{elementi}
+\cite{hollistic}
 
 \section{Zaključak}
 \label{sec:zakljucak}
@@ -209,7 +216,7 @@ Iako se internet marketing menja I konstantno proširuje jedan je od veoma važn
 
 \bibitem{benefiti i mane} Yurovskiy, Vladislav \emph{Pros and cons of internet marketing} 2014.
 \bibitem{elementi} IT-akademija.com,https://www.it-akademija.com/digitalni-marketing-kompletan-vodic,12.11.2022.
-\bibitem{tradicionalni i internet marketing} Holistic digital solutions,https://holistic-digital.com/internet-marketing/,14.11.2022.
+\bibitem{hollistic} Holisticdigitalsolutions,https://holistic-digital.com/internet-marketing/,14.11.2022.
 
 
 
