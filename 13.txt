@@ -141,12 +141,13 @@ Bolje se rangira ako su ključne reči -duga svečana haljina  , nego samo -halj
 \label{subsec:Email}
 \\\textbf{Email marketing} je i dalje izuzetno efikasan način da se kontaktira sa klijentima. Ukratko, reč je, pre svega, o promotivnim emailovima kojima je osnovni cilj da se ostvari uspešan kontakt i prenesu marketinške poruke.
 \\Na ovaj način se obraćamo potencijalnim kupcima, ali i starim korisnicima usluga koje želimo da upoznamo sa novim poslovnim prilikama.
-\\Tipične vrste mailova su:
+\\Tipične vrste mailova su prikazane na ovoj listi \ref{item:email}:
 \begin{itemize}
     \item Poziv na pretplatu na newsletter;
     \item Promocije;
     \item Briga o kupcima (popust za rođendan, specijalne promocije u okviru loyalty programa…);
     \item Email zahvalnica nakon kupovine;
+    \label{item:email}
 \end{itemize}
 \\Zbog zloupotrebe ovog vida promocije , email klijenti  Gmail i Hotmail su razvili filere koji  blokiraju beskorisne ili prevarantske emailove (spam).
 \subsection{Pay per Click (PPC)}
@@ -212,7 +213,7 @@ Iako se internet marketing menja I konstantno proširuje jedan je od veoma važn
 \fi
 
 \begin{thebibliography}{9}
-\bibitem{uvod} mailchimp.com,https://mailchimp.com/marketing-glossary/digital-marketing/#What_is_digital_marketing%3F, 12.11.2022. 
+\bibitem{uvod} mailchimp.com,https://mailchimp.com/marketing-glossary/digital-marketing, 12.11.2022. 
 \bibitem{istorija} Alex Trengove. \emph{Internet marketing}. 2021.
 
 \bibitem{benefiti i mane} Yurovskiy, Vladislav \emph{Pros and cons of internet marketing} 2014.
